@@ -1,8 +1,8 @@
 # Build Lattice with networkx
 
 ## Libraries
-[pyahocorasick](https://github.com/WojciechMula/pyahocorasick/)
-[networkx(v2.5)](https://networkx.org/)
+- [pyahocorasick](https://github.com/WojciechMula/pyahocorasick/)
+- [networkx(v2.5)](https://networkx.org/)
 
 
 ## Preprocessing
