@@ -1,7 +1,11 @@
 # Build Lattice with networkx
 
-## Preprocessing
+## Libraries
+[pyahocorasick](https://github.com/WojciechMula/pyahocorasick/)
+[networkx(v2.5)](https://networkx.org/)
 
+
+## Preprocessing
 1. download a sample text
 ```bash
 wget -P data/ http://www.cl.ecei.tohoku.ac.jp/nlp100/data/neko.txt
